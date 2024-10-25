@@ -20,4 +20,6 @@ Testing Accuracy: 93.5%
 
 Despite the impressive accuracy metrics, the model is lightweight, with a file size of just 13.2 MB. This small size allows for fast processing and makes it easily integrable with low-level microcontrollers, ensuring seamless deployment in various surveillance applications.
 
+## How to run the code
 
+To view the code and performance details, please refer to the mask.ipynb file. To execute the face mask detection application, ensure that a webcam is connected. Run the video.py file to check whether an individual is wearing a face mask or not.
