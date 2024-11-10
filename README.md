@@ -1,4 +1,4 @@
-# COVID19-real_time_mask_detection
+# COVID19-real time mask detection
 
 The Real-Time Mask Detection System is designed to enhance public safety during the COVID-19 pandemic by providing a reliable solution for monitoring mask compliance in crowded environments. This system can be seamlessly integrated with surveillance cameras to automatically detect whether individuals are wearing masks. By analyzing video feeds in real time, it enables authorities to monitor compliance levels and take appropriate action to limit the spread of the COVID-19 virus.
 
